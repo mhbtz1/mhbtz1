@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning about formal methods and software verification with the Coq proof assistant from Software Foundations ( <a href="https://softwarefoundations.cis.upenn.edu/">SF</a> ) and applications to hardware and software systems.
+🌱 I’m currently learning about formal methods and software verification with the Coq proof assistant from Software Foundations ( <a href="https://softwarefoundations.cis.upenn.edu/">SF</a> ) and applications to verified hardware, software, and distributed systems.
