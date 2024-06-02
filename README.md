@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning about formal methods and software verification with the Coq proof assistant from Software Foundations ( <a href="https://softwarefoundations.cis.upenn.edu/">SF</a> ) and applications to verified hardware, software, and distributed systems.
 
 I am currently working as a ML/SWE intern at <a href="https://www.structify.ai"> Structify </a>, and formerly worked at Amazon Web Services as a SWE intern in Lab126 @ AWS HWEngS.
+
+All of my relevant links + websites are present on this GitHub profile.
