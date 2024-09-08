@@ -20,3 +20,5 @@ My name is Matthew Habtezgi. I am a rising 4th year undergraduate with interests
 I am currently working at MIT PLV as a research intern, and formerly worked as a machine learning engineer at <a href="https://www.structify.ai"> Structify </a> working on backend and recommender systems, and as a software engineering intern at AWS working on low-level systems / server firmware.
 
 All of my relevant links + websites are present on this GitHub profile.
+
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhbtz1)](https://github.com/anuraghazra/github-readme-stats)
