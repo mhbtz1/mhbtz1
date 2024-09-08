@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 My name is Matthew Habtezgi. I am a rising 4th year undergraduate with interests in  (fullstack | systems) software engineering, ( ML | formal methods ) research, and computer architecture.
 
-I am currently working as a Machine Learning Engineer at <a href="https://www.structify.ai"> Structify </a>, and formerly worked at AWS as a Software Engineering intern working on low-level systems / server firmware.
+I am currently working at MIT PLV as a research intern, and formerly worked as a machine learning engineer at <a href="https://www.structify.ai"> Structify </a> working on backend and recommender systems, and as a software engineering intern at AWS working on low-level systems / server firmware.
 
 All of my relevant links + websites are present on this GitHub profile.
