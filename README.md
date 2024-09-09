@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Matthew Habtezgi. I am a rising 4th year undergraduate with interests in  (fullstack | systems) software engineering, ( ML | formal methods ) research, and computer architecture.
+My name is Matthew Habtezgi. I am an undergraduate student with interests in  (fullstack | systems) software engineering, ( ML | formal methods ) research, and computer architecture.
 
 I am currently working at MIT PLV as a research intern, and formerly worked as a machine learning engineer at <a href="https://www.structify.ai"> Structify </a> working on backend and recommender systems, and as a software engineering intern at AWS working on low-level systems / server firmware.
 
