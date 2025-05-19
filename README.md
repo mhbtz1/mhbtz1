@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Matthew Habtezgi. I am an undergraduate student with interests in  (fullstack | systems) software engineering, ( ML | formal methods ) research, and computer architecture.
 
-I am currently working at MIT PLV as a research intern, and an ML Engineer at <a href="https://quantumgears.com/about-us/"> Quantum Gears </a>, and formerly worked as:
+I am currently working at MIT PLV as a research intern, and formerly worked as:
 
 1. ML Engineer at <a href="https://www.structify.ai"> Structify </a> in Brooklyn, NYC working on backend and recommender systems
 2. Software engineering Intern at Amazon Web Services in Cupertino, CA working on low-level systems / server firmware.
