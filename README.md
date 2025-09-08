@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 My name is Matthew Habtezgi. I am an undergraduate student with interests in  (fullstack | systems) software engineering, ( ML | formal methods ) research, and computer architecture.
 
-I am currently working at MIT PLV as a research intern, and formerly worked as:
+I am currently working as a founding engineer at <a href="https://14.ai"> 14.ai </a> in San Francisco, CA, and formerly have been:
 
 1. ML Engineer at <a href="https://www.structify.ai"> Structify </a> in Brooklyn, NYC working on backend and ML systems.
-2. Software engineering Intern at Amazon Web Services in Cupertino, CA working on low-level systems / server firmware.
+2. MIT PLV as a research intern, and formerly worked as:
+3. Software engineering Intern at Amazon Web Services in Cupertino, CA working on low-level systems / server firmware.
 
 All of my relevant links + websites are present on this GitHub profile.
