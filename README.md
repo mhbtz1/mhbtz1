@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Matthew Habtezgi. I am an undergraduate student with interests in  (fullstack | systems) software engineering, ( ML | formal methods ) research, and computer architecture.
+My name is Matthew Habtezgi. I am an undergraduate student at <a href="https://mit.edu"> MIT </a> with interests in  (fullstack | systems) software engineering, ( ML | formal methods ) research, and computer architecture.
 
 I am currently working as a founding engineer at <a href="https://14.ai"> 14.ai </a> in San Francisco, CA, and formerly have been:
 
