@@ -21,7 +21,7 @@ I am currently working as a founding engineer at <a href="https://www.bronco.ai/
 
 1. Founding Engineer at <a href="https://14.ai"> 14.ai </a> working on full-stack AI application for customer support AI agents.
 2. ML Engineer at <a href="https://www.structify.ai"> Structify </a> in Brooklyn, NYC working on backend and ML systems.
-3. MIT PLV as a research intern working on a project verifying RISC-V cores (Koika) and a project verifying properties of a tensor compiler (ATL) in Rocq.
-4. Software engineering Intern at Amazon Web Services in Cupertino, CA working on low-level systems / server firmware.
+3. MIT PLV at <a href="https://www.csail.mit.edu/research/programming-languages-verification"> MIT CSAIL </a> as a research intern working on a project verifying RISC-V cores (Koika) and a project verifying properties of a tensor compiler (ATL) in Rocq.
+4. Software engineering Intern at <a href="https://aws.amazon.com/"> Amazon Web Services </a> in Cupertino, CA working on low-level systems / server firmware.
 
 All of my relevant links + websites are present on this GitHub profile.
