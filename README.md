@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Matthew Habtezgi. I am an undergraduate student at <a href="https://mit.edu">MIT</a> with interests in software engineering and ML / formal methods research.
+My name is Matthew Habtezgi. I am a computer programmer with interests in software engineering and ML / formal methods research.
 
 I am currently working as a founding engineer at <a href="https://www.bronco.ai/"> Bronco AI </a> in San Francisco, CA, and formerly have been:
 
